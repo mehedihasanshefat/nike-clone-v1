@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import React from "react";
 import { Card } from "@/components";
 import { getCurrentUser } from "@/lib/auth/actions";
